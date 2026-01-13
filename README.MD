@@ -31,20 +31,16 @@ Moda e Tecnologia é um site de pesquisa sobre a evolução do setor. Através d
 Você pode visualizar o layout do projeto através [DESSE LINK](https://www.canva.com/design/DAG-CEQE8ss/FTEaS7oZglemcAhTxBjAkg/edit?utm_content=DAG-CEQE8ss&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton).
 
 ---
-
-Feito com ♥ by Carole (https://www.instagram.com/jemappellecarole/)
-
 <!--START_SECTION:footer-->
-
 <br />
 <br />
 
 <p align="center">
-  <a href="https://www.programaria.org/cursos-programaria/front-end-primeira-pagina-web/" target="_blank">
+  <a href="https://www.programaria.org/cursos-programaria/front-end-primeira-pagina-web/">
  
-   <img align-center src="./assets/bolsaestudo.png" alt="Ilustração Doe Uma Bolsa de Estudos do Curso eu ProgrAmo" srcset="">
-
-
-    
-  </a>
+   <img align-center src="./assets/bolsaestudo.png" alt="Ilustração Doe Uma Bolsa de Estudos do Curso eu ProgrAmo" srcset=""> 
+  Curso progra[m]aria "Front-end: minha primeira página Web!"</a>
+  <br>
+  <br>
+  Feito com ♥ by Carole (https://www.instagram.com/jemappellecarole/)
 </p>
