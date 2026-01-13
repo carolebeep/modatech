@@ -41,6 +41,10 @@ Feito com ♥ by Carole (https://www.instagram.com/jemappellecarole/)
 
 <p align="center">
   <a href="https://www.programaria.org/cursos-programaria/front-end-primeira-pagina-web/" target="_blank">
-    <img align="center" src="https://vamosjuntes.programaria.org/fundo-de-bolsas?_gl=1*18zj3qa*_ga*NDc0MTc5MjQ0LjE3NTI3ODE1Mjk.*_ga_CWF88KQ9ZH*czE3NjgzMTkyNTQkbzcxJGcxJHQxNzY4MzE5MjY5JGo0NSRsMCRoMA.." alt="banner"/>
+ 
+   <img align-center src="./assets/bolsaestudo.png" alt="Ilustração Doe Uma Bolsa de Estudos do Curso eu ProgrAmo" srcset="">
+
+
+    
   </a>
 </p>
