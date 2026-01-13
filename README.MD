@@ -1,5 +1,4 @@
 
-<<<<<<< HEAD
 <p align="center">
 Projeto desenvolvido com bolsa de estudos no curso para iniciantes em Tech- "Frontend- Minha primeira página Web!", promovido pela PrograMaria, Escola Online de Tecnologia focada em empoderar mulheres e gêneros minorizados por meio da Tecnologia.
 </p>
@@ -45,21 +44,3 @@ Feito com ♥ by Carole (https://www.instagram.com/jemappellecarole/)
     <img align="center" src="https://vamosjuntes.programaria.org/fundo-de-bolsas?_gl=1*18zj3qa*_ga*NDc0MTc5MjQ0LjE3NTI3ODE1Mjk.*_ga_CWF88KQ9ZH*czE3NjgzMTkyNTQkbzcxJGcxJHQxNzY4MzE5MjY5JGo0NSRsMCRoMA.." alt="banner"/>
   </a>
 </p>
-
-<<<<<<< 
-
-# <!--END_SECTION:footer-->
-
-<!--END_SECTION:footer-->
-
-> > > > > > >
-
-
-
-
-
-# modatech
-# modatech
-=======
->>>>>>>
-
