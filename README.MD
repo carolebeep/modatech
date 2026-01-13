@@ -39,7 +39,7 @@ Você pode visualizar o layout do projeto através [DESSE LINK](https://www.canv
   <a href="https://www.programaria.org/cursos-programaria/front-end-primeira-pagina-web/">
  
    <img align-center src="./assets/bolsaestudo.png" alt="Ilustração Doe Uma Bolsa de Estudos do Curso eu ProgrAmo" srcset=""> 
-  Curso progra[m]aria "Front-end: minha primeira página Web!"</a>
+  Curso progra{m}aria "Front-end: minha primeira página Web!"</a>
   <br>
   <br>
   Feito com ♥ by <a href="https://www.instagram.com/jemappellecarole/" target="blank">Carole.</a>
