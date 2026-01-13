@@ -23,7 +23,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-Moda e Tecnologia é um site de pesquisa sobre a evolução do setor. Através da linha do tempo interativa é possível acessar artigos, vídeos e exposições virtuais que mostram como a tecnologia transforma o vestir na História da Humanidade. Curadoria de Conteúdo feita por <a href="https://www.instagram.com/jemappellecarole/" target="blank">Carole.</a>
+Moda e Tecnologia é um site de pesquisa sobre a evolução do setor. Através da linha do tempo interativa é possível acessar artigos, vídeos e exposições virtuais que mostram como a tecnologia transforma o vestir na História da Humanidade. Curadoria de Conteúdo feita por <a href="https://www.linkedin.com/in/carole-67a7a9a6" target="blank">Carole.</a>
 
 
 ## 🔖 Layout
