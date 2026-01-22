@@ -202,9 +202,19 @@ button{
   color: white;
 }
 
- footer {
-  padding: 0px 24px 0px 24px;
-  text-align: center;
-  font-size: 14px;
-  margin-top: auto;
+footer {
+    
+    color: white;
+    text-align: center;
+    padding: 20px 0;
+    width: 100%;
+    
+    /* Adicione aqui: */
+    font-size: 13px; 
+}
+
+/* Se quiser que o link da "Carole" também mude, o footer herdará o tamanho */
+footer a {
+    color: #99ffff; /* Um exemplo de cor para o seu link */
+    text-decoration: none; /* Tira aquele sublinhado se você preferir */
 }

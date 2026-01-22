@@ -22,8 +22,13 @@ document.addEventListener('DOMContentLoaded', function() {
         });
     });
 
-    // Inicia mostrando o primeiro evento
-    if (events.length > 0) {
-        showEvent('event1');
+    });
+
+// Esse código pega o ano atual e coloca no lugar do elemento com id "ano"
+document.getElementById("ano").innerHTML = new Date().getFullYear();
+
+// Colocamos a lógica do ano aqui dentro também por segurança
+    const elementoAno = document.getElementById("ano");
+    if (elementoAno) {
+        elementoAno.innerHTML = new Date().getFullYear();
     }
-});
